@@ -1,0 +1,38 @@
+body{
+    line-height: 25px;
+    background-image: url('https://img3.goodfon.com/wallpaper/nbig/8/88/cvet-forma-tekstura-4669.jpg');
+    color: white;
+    text-align: left;
+    text-shadow: 24px 27px 11px black;
+}
+table{
+    margin: 0 auto;
+    width: 60%;
+}
+b{
+    font-size: 20px;
+}
+form{
+    display: inline;
+}
+.podsumowanie{
+    border-left: 10px solid rgb(84, 51, 13); 
+    line-height: 60px;
+    font-size: 25px;
+    text-align: left;
+    width: 75%;
+    padding-left: 5px; 
+    font-weight: bold;
+    display: block;
+    
+}
+.podsumowanie span{
+    font-style: inherit;
+    font-weight: bold;
+    color: black;
+    font-family: Verdana;
+}
+.error{
+    color: red;
+
+}
